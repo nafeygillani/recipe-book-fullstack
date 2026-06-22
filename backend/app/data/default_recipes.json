@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Spaghetti Bolognese",
+    "cuisine": "Italian",
+    "description": "A classic pasta dish with rich tomato and beef sauce.",
+    "prep_minutes": 15,
+    "cook_minutes": 40,
+    "servings": 4,
+    "difficulty": "Easy",
+    "ingredients": [
+      "400 g spaghetti",
+      "300 g minced beef",
+      "1 onion, chopped",
+      "2 cloves garlic",
+      "400 g canned tomatoes",
+      "2 tbsp tomato paste",
+      "Salt, pepper, oregano"
+    ],
+    "steps": [
+      "Boil the spaghetti according to package instructions.",
+      "Saute onion and garlic until soft, then add minced beef and cook until browned.",
+      "Stir in tomatoes, tomato paste, and oregano and simmer for 25 minutes.",
+      "Serve the sauce over the spaghetti."
+    ],
+    "notes": "Top with grated parmesan if available.",
+    "created_by": "System"
+  },
+  {
+    "title": "Chicken Karahi",
+    "cuisine": "Pakistani",
+    "description": "A bold tomato-based chicken curry cooked with fresh ginger and green chilies.",
+    "prep_minutes": 20,
+    "cook_minutes": 35,
+    "servings": 4,
+    "difficulty": "Medium",
+    "ingredients": [
+      "700 g chicken",
+      "4 tomatoes, chopped",
+      "3 green chilies",
+      "1 tbsp ginger garlic paste",
+      "1 tsp cumin",
+      "1 tsp black pepper",
+      "Fresh coriander"
+    ],
+    "steps": [
+      "Cook chicken with oil and ginger garlic paste until lightly browned.",
+      "Add tomatoes, spices, and chilies, then cook until the tomatoes break down.",
+      "Simmer until oil separates and the chicken is fully cooked.",
+      "Finish with coriander and julienned ginger."
+    ],
+    "notes": "Best served with naan.",
+    "created_by": "System"
+  },
+  {
+    "title": "Vegetable Fried Rice",
+    "cuisine": "Chinese",
+    "description": "Quick stir-fried rice with mixed vegetables and soy sauce.",
+    "prep_minutes": 15,
+    "cook_minutes": 15,
+    "servings": 3,
+    "difficulty": "Easy",
+    "ingredients": [
+      "3 cups cooked rice",
+      "1 cup mixed vegetables",
+      "2 eggs",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "2 spring onions"
+    ],
+    "steps": [
+      "Scramble the eggs in a wok and set aside.",
+      "Stir-fry vegetables briefly, then add rice and soy sauce.",
+      "Mix in the eggs and spring onions.",
+      "Finish with sesame oil before serving."
+    ],
+    "notes": "Use cold rice for the best texture.",
+    "created_by": "System"
+  },
+  {
+    "title": "Chocolate Mug Cake",
+    "cuisine": "Dessert",
+    "description": "A fast one-mug chocolate cake ready in minutes.",
+    "prep_minutes": 5,
+    "cook_minutes": 2,
+    "servings": 1,
+    "difficulty": "Easy",
+    "ingredients": [
+      "4 tbsp flour",
+      "2 tbsp cocoa powder",
+      "2 tbsp sugar",
+      "3 tbsp milk",
+      "2 tbsp oil",
+      "Pinch of baking powder"
+    ],
+    "steps": [
+      "Mix all ingredients in a microwave-safe mug until smooth.",
+      "Microwave for 60 to 90 seconds until set.",
+      "Cool slightly and serve warm."
+    ],
+    "notes": "Add chocolate chips for extra richness.",
+    "created_by": "System"
+  }
+]

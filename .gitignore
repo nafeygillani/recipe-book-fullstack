@@ -1,0 +1,49 @@
+# ========================
+# Python / Backend
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.pytest_cache/
+
+# Environment secrets — NEVER commit these
+backend/.env
+
+# ========================
+# Flutter / Dart / Frontend
+# ========================
+# Build outputs
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/.pub/
+frontend/pubspec.lock
+
+# ========================
+# IDE / OS files
+# ========================
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Zip / Archives
+# ========================
+*.zip
+*.tar.gz
+*.rar
